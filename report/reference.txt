@@ -1,0 +1,9 @@
+[1] Alibaba cloud native architecture practice, 2021.4, China Machine Press
+[2] The Twelve-factor App, retrieved from https://12factor.net/zh_cn/
+[3] LogStore: A Cloud-Native and Multi-Tenant Log Database, Wei Cao Xiaojie, etc., Zhejiang University and Alibaba Group
+[4] Introduction to Algorithm, 2016.10, China Machine Press
+[5] Database system concepts, 2020.10, China Machine Press
+[6] consistent hash, retrieved from https://www.cnblogs.com/cloudgeek/p/9427036.html
+[7] chord, retrieved from https://www.cnblogs.com/zfyouxi/p/3871553.html
+[8] SHA-1, retrieved from https://blog.csdn.net/u010536615/article/details/80080918
+[9] MapReduce: Simplified Data Processing on Large Clusters, Jeffrey Dean and Sanjay Ghemawat, 2004.
